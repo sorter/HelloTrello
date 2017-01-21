@@ -37,7 +37,7 @@ Pod::Spec.new do |s|
     'HelloTrello' => ['Pod/Assets/*.png']
   }
 
-  s.dependency 'Alamofire', '~> 3.0'
+  s.dependency 'Alamofire', '~> 4.0'
   s.dependency 'AlamofireImage', '~> 2.0'
   s.dependency 'Decodable', '~> 0.4'
 end
